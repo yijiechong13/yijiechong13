@@ -1,7 +1,5 @@
 # Hi, I'm Yi Jie 👋
 
-**Full-stack developer & AI engineer** — I build LLM-powered products, ML systems and scalable web apps.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yijiechong13/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chongyijie13@gmail.com)
 
