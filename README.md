@@ -1,7 +1,14 @@
 # Hi, I'm Yi Jie 👋
 
+**Full-stack developer & AI engineer.** I build multi-agent LLM systems, ML pipelines and production-grade backends.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yijiechong13/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chongyijie13@gmail.com)
+
+## 🏆 Highlights
+
+![Top 25 Finalist](https://img.shields.io/badge/🏆_Top_25_Finalist-Binance_Agentic_AI_Challenge-F0B90B?style=for-the-badge)
+![Top 10 Finalist](https://img.shields.io/badge/🏆_Top_10_Finalist-Hack4Good_@_NUS-2ea44f?style=for-the-badge)
 
 ## 🛠 Tech Stack
 
@@ -15,8 +22,8 @@
 
 ## 🚀 Featured Projects
 
-### 📈 Quantelligence: Multi-Agent Trading System
-🏆 **Top 25 Finalist, Binance Agentic AI Challenge**
+### 📈 Quantelligence: Multi-Agent Trading System · 🏆 Top 25 Finalist
+> 🏆 **TOP 25 FINALIST: Binance Agentic AI Challenge**
 
 LangGraph multi-agent system trading tokenised stocks on BNB Chain, with a deterministic risk gate outside the LLM and full audit logs. Ran unattended on Google Cloud for a two-week live evaluation, executing real USDT swaps.
 
@@ -41,8 +48,8 @@ Conversational search over a 50K-product catalogue using hybrid BM25 retrieval, 
 
 `Python` `Information Retrieval` `NLP`
 
-### 🤝 [Care4You](https://github.com/yijiechong13/Care4You): Accessible Event Platform
-🏆 **Top 10 Finalist, Hack4Good @ NUS**
+### 🤝 [Care4You](https://github.com/yijiechong13/Care4You): Accessible Event Platform · 🏆 Top 10 Finalist
+> 🏆 **TOP 10 FINALIST: Hack4Good @ NUS**
 
 React Native app with race-free registration, caregiver approvals, auto-waitlisting and secure QR check-in. Replaced 8+ hours a week of manual admin.
 
