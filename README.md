@@ -49,7 +49,7 @@ LangGraph multi-agent system trading tokenised stocks on BNB Chain, with a deter
 Singlish scam/grooming/cyberbullying detection using ModernBERT embeddings + GraphSAGE over conversation graphs (**89.4% macro-F1**), with Claude-generated explanations served via a rate-limited FastAPI service.  
 `PyTorch` `GraphSAGE` `FastAPI` `React` `Supabase`
 
-### 🛵 [NUSFetch](https://github.com/yijiechong13/NUSFetch): Campus Errand Platform
+### 🛵 [CampusRun](https://github.com/yijiechong13/NUSFetch): Campus Errand Platform
 **NUS CS3219 Software Design & Architecture**  
 Five containerised FastAPI microservices with RS256 JWT auth, an idempotent credit ledger and a transactional outbox. Includes a RAG support assistant (pgvector, **90.6% top-5 retrieval hit rate**) with Claude tool calling.  
 `FastAPI` `PostgreSQL` `pgvector` `Docker` `Claude API`
